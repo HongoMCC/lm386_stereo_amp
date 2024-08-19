@@ -2333,7 +2333,7 @@
     (property "Reference" "RV1" (at 70.485 113.665 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "R_Potentiometer_Dual" (at 70.485 111.125 90)
+    (property "Value" "10kΩ" (at 70.485 111.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal" (at 73.025 106.045 0)
